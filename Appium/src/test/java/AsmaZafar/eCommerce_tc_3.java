@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import io.appium.java_client.AppiumBy;
 
-public class eCommerce_tc_3 extends BaseTest{
+public class eCommerce_tc_3  extends BaseTest{
 	@Test
 	public void FillForm()
 	{
